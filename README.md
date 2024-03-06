@@ -1,4 +1,4 @@
-2### Hi there 👋
+### Hi there 👋
 
 <!--
 **venzo24/venzo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
